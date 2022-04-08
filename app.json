@@ -1,0 +1,10 @@
+{
+  "name": "WeatheApp",
+  "slug": "WeatheApp",
+  "displayName": "WeatheApp",
+  "scheme": "WeatheApp",
+  "platforms": [
+    "ios",
+    "android"
+  ]
+}
